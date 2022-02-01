@@ -1,3 +1,3 @@
 ## Анимированные уведомления
 
-This project contains animated notifications. Technologies stack - CSS, JavaScript.
+Уведомления реализованы с помощью JS и CSS.
